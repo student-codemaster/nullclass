@@ -1,0 +1,5 @@
+index_dir: ../faiss_index
+sources:
+  - ../dataset/dataset.csv
+interval_minutes: 60
+# Optional: set a list of folders/files to watch or ingest. Paths are relative to `src` when running `main.py` from `src`.
